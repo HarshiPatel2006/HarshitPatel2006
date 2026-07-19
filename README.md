@@ -1,2 +1,4 @@
-Languages - Python\n
-Libraries - Numpy & Pandas
+* **Languages:** Python
+* **Libraries:** NumPy & Pandas
+
+
